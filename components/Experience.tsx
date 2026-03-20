@@ -84,7 +84,7 @@ export default function Experience() {
         <ExperienceCard
           current
           role="Forensic Scientist I — Biology Unit"
-          org="Mesa Police Department, Forensic Services"
+          org="City of Mesa, Forensic Services"
           dates="March 2025 – Present"
           location="Mesa, AZ"
           skills="Evidence handling, Screening (Microscopy & ALS), Presumptive tests (KM, HemaTrace, BCIP, AP spot, p30, Christmas Tree Stain, RSID), Report Writing"

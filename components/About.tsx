@@ -3,8 +3,8 @@ import { Section, SectionHeading } from "./Section";
 const stats = [
   { value: "4.19", label: "GPA at ASU" },
   { value: "2 yrs", label: "Undergraduate Research" },
-  { value: "4", label: "Research Projects" },
-  { value: "7+", label: "Presentations" },
+  { value: "1+", label: "Years Crime Lab Experience" },
+  { value: "3", label: "Publications" },
 ];
 
 export default function About() {
